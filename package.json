@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^18.15.0"
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AmazingPurple",
+  "license": "ISC",
+  "description": ""
+}
