@@ -15,7 +15,7 @@ const commandsPath = path.join(__dirname, "commands")
 const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'))
 
 const client = new Client({ intents : [GatewayIntentBits.Guilds ] })
-    
+
 
 
 for (const file of commandFiles){
